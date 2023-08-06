@@ -32,7 +32,7 @@ user_commands = [
 ]
 avl_web = [
     "droplink.co",
-    "gplinks.in",
+    "moneycase.link",
     "tnlink.in",
     "za.gl",
     "du-link.in",

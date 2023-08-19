@@ -31,7 +31,7 @@ user_commands = [
     "me",
 ]
 avl_web = [
-    "droplink.co",
+    "links4money.com",
     "moneycase.link",
     "tnlink.in",
     "za.gl",
